@@ -1,0 +1,22 @@
+.navContainer{
+    /* background-color: red; */
+    display: flex;
+}
+.lftContainer{
+    background-color: black;
+    color: white;
+    width: 30%;
+}
+.rhtContainer{
+    
+    background-color: limegreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+.rhtContainer a{
+    margin: auto;
+    text-decoration: none;
+    color: black;
+}
